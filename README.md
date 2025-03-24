@@ -19,9 +19,9 @@
 
 ### 🚀 Best Projects:
 
-- 📊 [Linear Regression from Scratch](https://github.com/Estaed/Linear_Regression_Scratch) - Implementation of Linear Regression using pure Python and NumPy.
 - 🎮 [Doom AI](https://github.com/Estaed/Doom-AI) - A reinforcement learning agent trained to play Doom using DQN and PPO. The project compares these algorithms to see which performs best in the Doom environment.
 - 🍄 [Mario AI](https://github.com/Estaed/Mario-AI) - An AI agent trained with both PPO and DQN to play Mario. The goal is to compare the performance of both algorithms in this classic platformer game.
+- 📊 [Linear Regression from Scratch](https://github.com/Estaed/Linear_Regression_Scratch) - Implementation of Linear Regression using pure Python and NumPy.
 
 
 ### 📊 GitHub Stats
