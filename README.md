@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋, I'm Estaed
 
-<!--
-**Estaed/Estaed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A passionate self-taught developer and AI enthusiast
 
-Here are some ideas to get you started:
+🌱 I’m currently learning more about **Machine Learning**, **Deep Learning**, and **Data Science**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 I love working on projects where I can **solve real-world problems with code**
+
+🧠 Always curious about **how things work under the hood** - especially algorithms and AI models
+
+### 🔧 Technologies & Tools I work with:
+- Python 🐍
+- NumPy & Pandas
+- Matplotlib & Seaborn
+- Scikit-Learn
+- TensorFlow / PyTorch
+- Git & GitHub
+- SQL
+
+### 📊 GitHub Stats
+
+![Estaed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Estaed&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Estaed&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Estaed&theme=tokyonight&hide_border=false)
+
+### 🌐 Connect with me:
+- GitHub: [Estaed](https://github.com/Estaed)
+- Linkedin: [TarıkBulut](https://www.linkedin.com/in/tarıkbulut/)
+- Gmail: (tarik.estaed@gmail.com)
+
+---
+
+> "EU4 Aztec fan and Lol Taric main" 
+
