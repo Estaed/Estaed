@@ -1,12 +1,15 @@
 # Hi there 👋, I'm Estaed
 
-## A passionate self-taught developer and AI enthusiast
+## I build Artificial Intelligences for games using Reinforcement and Imitation Learning
 
-🌱 I’m currently learning more about **Machine Learning**, **Deep Learning**, and **Data Science**
+🎮 I’m passionate about creating intelligent agents that interact with game environments.  
+Currently, I'm working on projects involving **Reinforcement Learning (RL)** and **Imitation Learning (IL)** to explore how AI can learn and adapt in dynamic, interactive worlds.
 
-💼 I love working on projects where I can **solve real-world problems with code**
+🌱 I’m diving deeper into **Machine Learning**, **Deep Learning**, and **Game AI systems**
 
-🧠 Always curious about **how things work under the hood** - especially algorithms and AI models
+💼 I enjoy building practical, hands-on projects that **connect theory with real gameplay**
+
+🧠 Always curious about **what’s under the hood** — especially algorithms, models, and mechanics
 
 ### 🔧 Technologies & Tools I work with:
 - Python 🐍
@@ -19,10 +22,17 @@
 
 ### 🚀 Best Projects:
 
-- 🎮 [Doom AI](https://github.com/Estaed/Doom-AI) - A reinforcement learning agent trained to play Doom using DQN and PPO. The project compares these algorithms to see which performs best in the Doom environment.
-- 🍄 [Mario AI](https://github.com/Estaed/Mario-AI) - An AI agent trained with both PPO and DQN to play Mario. The goal is to compare the performance of both algorithms in this classic platformer game.
-- 📊 [Linear Regression from Scratch](https://github.com/Estaed/Linear_Regression_Scratch) - Implementation of Linear Regression using pure Python and NumPy.
+- 🛡️ **Project Taric**  
+A set of three interconnected repositories aimed at building a custom AI environment and agent for League of Legends-style gameplay using RL and IL:
+  - 🔁 [Taric AI Agent](https://github.com/Estaed/Taric_AI_Agent): A reinforcement learning agent that learns to support in a simulated LoL environment.  
+  - 🧪 [LoL Sim Env](https://github.com/Estaed/Lol_Sim_Env): A custom Gym environment built to simulate simplified lane behavior for Taric.  
+  - 🌐 [LoL Data MCP Server](https://github.com/Estaed/Lol_Data_MCP_Server): A middleware that connects live LoL game data to the simulation environment.
 
+- 🎮 [Doom AI](https://github.com/Estaed/Doom-AI)  
+A reinforcement learning agent trained to play Doom using DQN and PPO. The project compares these algorithms to evaluate performance in a fast-paced FPS.
+
+- 🍄 [Mario AI](https://github.com/Estaed/Mario-AI)  
+An AI agent trained with PPO and DQN to play Mario. Focuses on comparing performance and generalization in classic platformer challenges.
 
 ### 📊 GitHub Stats
 
@@ -35,9 +45,8 @@
 ### 🌐 Connect with me:
 - GitHub: [Estaed](https://github.com/Estaed)
 - Linkedin: [TarıkBulut](https://www.linkedin.com/in/tarıkbulut/)
-- Gmail: (tarik.estaed@gmail.com)
+- Gmail: tarik.estaed@gmail.com
 
 ---
 
-> "EU4 Aztec fan and Lol Taric main" 
-
+> "EU4 Aztec fan and LoL Taric main"
