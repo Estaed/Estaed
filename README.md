@@ -40,7 +40,6 @@ An AI agent trained with PPO and DQN to play Mario. Focuses on comparing perform
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Estaed&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Estaed&theme=tokyonight&hide_border=false)
 
 ### 🌐 Connect with me:
 - GitHub: [Estaed](https://github.com/Estaed)
