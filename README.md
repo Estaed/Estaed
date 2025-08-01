@@ -28,6 +28,9 @@ A set of three interconnected repositories aimed at building a custom AI environ
   - 🧪 [LoL Sim Env](https://github.com/Estaed/Lol_Sim_Env): A custom Gym environment built to simulate simplified lane behavior for Taric.  
   - 🌐 [LoL Data MCP Server](https://github.com/Estaed/Lol_Data_MCP_Server): A middleware that connects live LoL game data to the simulation environment.
 
+- 🔴 **[Connect4 AI](https://github.com/Estaed/Connet4_AI)**  
+A comprehensive Connect4 reinforcement learning system featuring self-play training with PPO algorithm. Includes hybrid CPU-GPU architecture, vectorized training environments (100-10,000 parallel games), and multiple game modes. Train your own Connect4 champion and watch it evolve from random moves to strategic gameplay!
+
 - 🎮 [Doom AI](https://github.com/Estaed/Doom-AI)  
 A reinforcement learning agent trained to play Doom using DQN and PPO. The project compares these algorithms to evaluate performance in a fast-paced FPS.
 
