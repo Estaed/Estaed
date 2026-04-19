@@ -55,6 +55,7 @@ An AI agent trained with PPO and DQN to play Mario. Focuses on comparing perform
 - GitHub: [Estaed](https://github.com/Estaed)
 - Linkedin: [TarıkBulut](https://www.linkedin.com/in/tarıkbulut/)
 - Gmail: tarik.estaed@gmail.com
+- My CV: [Resume](https://github.com/Estaed/Estaed/blob/main/Tarik_Bulut_CV.pdf)
 
 ---
 
