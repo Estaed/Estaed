@@ -6,6 +6,10 @@ Final-year Master of IT (Artificial Intelligence) student at Charles Darwin Univ
 
 ---
 
+### 🧠 [NeoMyelin](https://github.com/Estaed/neomyelin): my second brain, shipped empty (v1.0.0)
+
+The system I run my own school, work and projects on, released as open source without any of my data. One message installs it into **Claude Code, Codex or Antigravity**, and the assistant then remembers you across sessions, finds what you wrote before it answers, and changes its personality only when the same behaviour shows on three different days. Plain Markdown vault, standard-library Python, MIT. [Release notes](https://github.com/Estaed/neomyelin/releases/tag/v1.0.0)
+
 ### 🏆 CDU IT Code Fair 2026 (in progress)
 
 - 📡 **[Crosscheck](https://github.com/Estaed/CDU_IT_CODEFAIR_DATA_2026)**: Data Innovation Challenge (team DIC005). Compares published connectivity claims for 96 remote Northern Territory communities, shows what they mean for everyday services and where to check first. Offline single-file web app, [live here](https://estaed.github.io/CDU_IT_CODEFAIR_DATA_2026/).
@@ -26,7 +30,7 @@ Computer vision system designed with **NT Government Fisheries** to detect, clas
 
 ### 🤖 AI agents and open source
 
-I run my own work through coding agents (Claude Code, Codex) and a Hermes agent on an Azure VM, sharing one memory of notes, tasks and decisions. The agents write code against task contracts I write; I own the specs, the review and the result.
+I run my own work through coding agents (Claude Code, Codex) and a Hermes agent on an Azure VM, sharing one memory of notes, tasks and decisions; NeoMyelin is that memory layer, made public. The agents write code against task contracts I write; I own the specs, the review and the result.
 
 Contributions to [avenoxbeyin](https://github.com/avenoxai/avenoxbeyin), an open-source second-brain system for coding agents:
 
@@ -34,7 +38,7 @@ Contributions to [avenoxbeyin](https://github.com/avenoxai/avenoxbeyin), an open
 - [#93](https://github.com/avenoxai/avenoxbeyin/pull/93) hooks: public skip flag for delegated agent runs (merged)
 - [#95](https://github.com/avenoxai/avenoxbeyin/pull/95) hooks: remind once at Stop when edits have no receipt (merged)
 - [#103](https://github.com/avenoxai/avenoxbeyin/pull/103) doctor: report dead in-vault links in instruction and skill files (merged)
-- [#169](https://github.com/avenoxai/avenoxbeyin/pull/169) tests: isolate the suite from inherited agent flags (open)
+- [#169](https://github.com/avenoxai/avenoxbeyin/pull/169) tests: isolate the suite from inherited agent flags (merged)
 
 Also [avenoxskills#4](https://github.com/avenoxai/avenoxskills/pull/4): a quota-limit skill for Claude Code and Codex (merged).
 
