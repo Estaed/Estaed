@@ -1,49 +1,59 @@
-# Estaed | Reinforcement Learning & Machine Learning
+# Tarık Bulut | AI Engineer: Agents, Computer Vision, Reinforcement Learning
 
-## Portfolio: Autonomous Agents and Neural Systems
+Final-year Master of IT (Artificial Intelligence) student at Charles Darwin University (completing November 2026), with a Software Engineering degree. I start from how a process actually runs, find where AI or an agent can help, build it, and test that it holds up in practice.
 
-### 🔧 Technologies & Tools I work with:
-- Architectures: PPO, DQN, BERT, NLLB-200, RAG
-- Frameworks: PyTorch, TensorFlow, Gym/Gymnasium
-- Data/Compute: NumPy, Pandas, SQL, Linux
+📄 **CV:** [Tarik_Bulut_CV.pdf](https://github.com/Estaed/Estaed/blob/main/Tarik_Bulut_CV.pdf)
 
-- Check My CV: [Resume](https://github.com/Estaed/Estaed/blob/main/Tarik_Bulut_CV.pdf)
+---
 
-### 🚀 Best Projects:
+### 🏆 CDU IT Code Fair 2026 (in progress)
 
-- 🛡️ **Project Taric CANCELLED**  
-A set of three interconnected repositories aimed at building a custom AI environment and agent for League of Legends-style gameplay using RL and IL:
-  - 🔁 [Taric AI Agent](https://github.com/Estaed/Taric_AI_Agent): A reinforcement learning agent that learns to support in a simulated LoL environment.  
-  - 🧪 [LoL Sim Env](https://github.com/Estaed/Lol_Sim_Env): A custom Gym environment built to simulate simplified lane behavior for Taric.  
-  - 🌐 [LoL Data MCP Server](https://github.com/Estaed/Lol_Data_MCP_Server): A middleware that collects data for both the environment and AI agent.
+- 📡 **[Crosscheck](https://github.com/Estaed/CDU_IT_CODEFAIR_DATA_2026)**: Data Innovation Challenge (team DIC005). Compares published connectivity claims for 96 remote Northern Territory communities, shows what they mean for everyday services and where to check first. Offline single-file web app, [live here](https://estaed.github.io/CDU_IT_CODEFAIR_DATA_2026/).
+- 🏠 **Fair Turn**: AI Challenge (team AIC014). Human-approved decision support that prioritises housing maintenance requests in remote NT communities; the final ranking stays auditable arithmetic that the language model cannot override. Code is private.
+- 🛡️ **Cyber Security CTF**: live capture-the-flag competition, October 2026.
+- 🐟 **Coding & Poster** and **Research** competitions: team entries built on my FishNT thesis, led by my teammates.
 
-- 🌌 **[Dark Sky NT](https://github.com/Estaed/CDU_IT_CODEFAIR_Data_Science)**  
-A chatbot-powered data science project for Australian dark sky tourism. It combines data cleaning, sentiment analysis, and RAG-enhanced LLMs to recommend the best stargazing locations in the Northern Territory. Features include multi-source review integration, star rating generation with multilingual BERT, and intelligent retrieval-based responses.
+### 🥇 CDU IT Code Fair 2025: Winner (AI) & Runner-Up (Data Science)
 
-- 🗣️ **[Kriol → English Translation](https://github.com/Estaed/CDU_IT_CODEFAIR_Artifical_Intelligence)** 
-An end-to-end neural machine translation system for Kriol (an Australian creole language) to English using NLLB-200, data preprocessing, and augmentation. Developed for the AI Challenge at CDU IT Code Fair 2025.
+Nominated for the **NT Digital Excellence Awards 2025**.
 
-- 🔴 **[Connect4 AI](https://github.com/Estaed/Connet4_AI)**  
-A comprehensive Connect4 reinforcement learning system featuring self-play training with PPO algorithm. Includes hybrid CPU-GPU architecture, vectorized training environments (100–10,000 parallel games), and multiple game modes. Train your own Connect4 champion and watch it evolve from random moves to strategic gameplay!
+- 🗣️ **[Kriol → English Translation](https://github.com/Estaed/CDU_IT_CODEFAIR_Artifical_Intelligence)**: end-to-end Kriol-to-English neural machine translation with NLLB-200, built with very limited data.
+- 🌌 **[Dark Sky NT](https://github.com/Estaed/CDU_IT_CODEFAIR_Data_Science)**: stargazing tourism chatbot for non-technical users, built on RAG (FAISS) and a LoRA-tuned LLM, with multilingual BERT sentiment over multi-source reviews.
 
-- 🎮 [Doom AI](https://github.com/Estaed/Doom-AI)  
-A reinforcement learning agent trained to play Doom using DQN and PPO. The project compares these algorithms to evaluate performance in a fast-paced FPS.
+### 🐟 FishNT: AI-Based Fish Classification (Master's Thesis, 2026)
 
-- 🍄 [Mario AI](https://github.com/Estaed/Mario-AI)  
-An AI agent trained with PPO and DQN to play Mario. Focuses on comparing performance and generalization in classic platformer challenges.
+Computer vision system designed with **NT Government Fisheries** to detect, classify and estimate the weight of fish on a processing line. **99.6%** classification accuracy, **0.63 cm** mean length error; a scarce dataset expanded from 136 to 4,566 instances with SAM 2.1. (YOLO, SAM 2.1, OpenCV; code private.)
 
+### 🤖 AI agents and open source
 
-### 📊 GitHub Stats
+I run my own work through coding agents (Claude Code, Codex) and a Hermes agent on an Azure VM, sharing one memory of notes, tasks and decisions. The agents write code against task contracts I write; I own the specs, the review and the result.
 
-![Estaed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Estaed&show_icons=true&theme=tokyonight)
+Contributions to [avenoxbeyin](https://github.com/avenoxai/avenoxbeyin), an open-source second-brain system for coding agents:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Estaed&layout=compact&theme=tokyonight)
+- [#77](https://github.com/avenoxai/avenoxbeyin/pull/77) install: keep a customised legacy runner unmanaged next to V3 (merged)
+- [#93](https://github.com/avenoxai/avenoxbeyin/pull/93) hooks: public skip flag for delegated agent runs (merged)
+- [#95](https://github.com/avenoxai/avenoxbeyin/pull/95) hooks: remind once at Stop when edits have no receipt (merged)
+- [#103](https://github.com/avenoxai/avenoxbeyin/pull/103) doctor: report dead in-vault links in instruction and skill files (merged)
+- [#169](https://github.com/avenoxai/avenoxbeyin/pull/169) tests: isolate the suite from inherited agent flags (open)
 
+Also [avenoxskills#4](https://github.com/avenoxai/avenoxskills/pull/4): a quota-limit skill for Claude Code and Codex (merged).
 
-## Connectivity
-* **GitHub:** [Estaed](https://github.com/Estaed)
-* **LinkedIn:** [Tarık Bulut](https://www.linkedin.com/in/tarıkbulut/)
-* **Contact:** tarik.estaed@gmail.com
+### 🎮 Earlier projects
+
+- 🔴 **[Connect4 AI](https://github.com/Estaed/Connet4_AI)**: PPO self-play with vectorised environments (100 to 10,000 parallel games) and a hybrid CPU-GPU setup.
+- 🛡️ **Project Taric** (archived): an RL/IL agent for League of Legends support play, across [Taric AI Agent](https://github.com/Estaed/Taric_AI_Agent), [LoL Sim Env](https://github.com/Estaed/Lol_Sim_Env) and an [MCP server](https://github.com/Estaed/Lol_Data_MCP_Server) that grounds answers in live wiki data.
+- 🎮 [Doom AI](https://github.com/Estaed/Doom-AI) and 🍄 [Mario AI](https://github.com/Estaed/Mario-AI): DQN vs PPO compared on an FPS and a platformer.
+
+### 🔧 Skills
+
+- **AI & Agents:** LLMs, AI agents and multi-agent workflows (Claude Code, Codex), RAG, MCP, fine-tuning (LoRA), computer vision, NLP, reinforcement learning (PPO, DQN)
+- **Cloud & Platforms:** Azure (Virtual Machines, Logic Apps), GitHub, Docker, DigitalOcean, Firebase
+- **Languages:** Python, SQL, Java, C#, Dart
+
+### 📫 Contact
+
+- **LinkedIn:** [Tarık Bulut](https://www.linkedin.com/in/tarikbulut/)
+- **Email:** tarik.estaed@gmail.com
 
 ---
 
