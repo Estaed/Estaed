@@ -1,64 +1,91 @@
-# Tarık Bulut | AI Engineer: Agents, Computer Vision, Reinforcement Learning
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Tarık Bulut, AI engineer in Darwin, Australia, at his desk by the harbour at sunset. FishNT, Code Fair, NeoMyelin.">
+</p>
 
-Final-year Master of IT (Artificial Intelligence) student at Charles Darwin University (completing November 2026), with a Software Engineering degree. I start from how a process actually runs, find where AI or an agent can help, build it, and test that it holds up in practice.
+<p align="center">
+  <a href="https://github.com/Estaed/Estaed/blob/main/Tarik_Bulut_CV.pdf"><b>CV</b></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/tarikbulut/"><b>LinkedIn</b></a> &nbsp; / &nbsp;
+  <a href="mailto:tarik.estaed@gmail.com"><b>Email</b></a>
+</p>
 
-📄 **CV:** [Tarik_Bulut_CV.pdf](https://github.com/Estaed/Estaed/blob/main/Tarik_Bulut_CV.pdf)
+<br>
+
+Final-year **Master of IT (Artificial Intelligence)** at Charles Darwin University (November 2026), with a Software Engineering degree. I start from how a process actually runs, find where AI or an agent can help, build it, and test that it holds up in practice.
+
+## Start here
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>01 / SECOND BRAIN</sub>
+      <h3><a href="https://github.com/Estaed/neomyelin">NeoMyelin</a></h3>
+      <p>The memory I run my school, work and projects on, shipped empty. One message installs it into Claude Code, Codex or Antigravity.</p>
+      <p><a href="https://github.com/Estaed/neomyelin"><b>Install your second brain →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 / COMPUTER VISION · THESIS</sub>
+      <h3>FishNT</h3>
+      <p>Built with NT Government Fisheries: detects, classifies and weighs fish on a processing line. <b>99.6%</b> accuracy, <b>0.63 cm</b> length error.</p>
+      <p><sub>YOLO · SAM 2.1 · OpenCV · code private</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>03 / CODE FAIR 2026 · DATA</sub>
+      <h3><a href="https://github.com/Estaed/CDU_IT_CODEFAIR_DATA_2026">Crosscheck</a></h3>
+      <p>Compares published connectivity claims for 96 remote NT communities and shows where to check first. Offline, single file.</p>
+      <p><a href="https://estaed.github.io/CDU_IT_CODEFAIR_DATA_2026/"><b>Open the live app →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>04 / CODE FAIR 2025 · WINNER (AI)</sub>
+      <h3><a href="https://github.com/Estaed/CDU_IT_CODEFAIR_Artifical_Intelligence">Kriol → English</a></h3>
+      <p>End-to-end Kriol-to-English translation with NLLB-200, built from very limited data. Nominated for the NT Digital Excellence Awards 2025.</p>
+      <p><a href="https://github.com/Estaed/CDU_IT_CODEFAIR_Artifical_Intelligence"><b>See the model →</b></a></p>
+    </td>
+  </tr>
+</table>
+
+## On the workbench: Fair Turn
+
+**Housing maintenance triage for remote NT communities.** CDU IT Code Fair 2026, AI Challenge.
+
+Human-approved decision support: the final ranking stays auditable arithmetic that the language model cannot override. Also competing this year in the Cyber Security CTF (October) and, with my teammates, in Coding & Poster and Research on FishNT.
+
+**In progress.** The code is private.
+
+## More to open
+
+| Project | What to look for |
+| :--- | :--- |
+| [Dark Sky NT](https://github.com/Estaed/CDU_IT_CODEFAIR_Data_Science) | Code Fair 2025 runner-up (Data Science): stargazing chatbot on RAG (FAISS) and a LoRA-tuned LLM. |
+| [Connect4 AI](https://github.com/Estaed/Connet4_AI) | PPO self-play across 100 to 10,000 parallel games on a hybrid CPU-GPU setup. |
+| [Taric AI Agent](https://github.com/Estaed/Taric_AI_Agent) | RL/IL support agent for League of Legends, with a [sim env](https://github.com/Estaed/Lol_Sim_Env) and an [MCP server](https://github.com/Estaed/Lol_Data_MCP_Server). Archived. |
+| [Doom AI](https://github.com/Estaed/Doom-AI) · [Mario AI](https://github.com/Estaed/Mario-AI) | DQN vs PPO on an FPS and a platformer. |
+
+## Open source
+
+I run my work through Claude Code, Codex and a Hermes agent sharing one memory. Merged contributions to [avenoxbeyin](https://github.com/avenoxai/avenoxbeyin), the second brain NeoMyelin grew from:
+
+| PR | Change |
+| :--- | :--- |
+| [#77](https://github.com/avenoxai/avenoxbeyin/pull/77) | install: keep a customised legacy runner next to V3 |
+| [#93](https://github.com/avenoxai/avenoxbeyin/pull/93) | hooks: skip flag for delegated agent runs |
+| [#95](https://github.com/avenoxai/avenoxbeyin/pull/95) | hooks: remind once at Stop when edits have no receipt |
+| [#103](https://github.com/avenoxai/avenoxbeyin/pull/103) | doctor: report dead in-vault links |
+| [#169](https://github.com/avenoxai/avenoxbeyin/pull/169) | tests: isolate the suite from inherited agent flags |
+| [avenoxskills#4](https://github.com/avenoxai/avenoxskills/pull/4) | quota-limit skill for Claude Code and Codex |
+
+## Toolbox
+
+**AI:** LLM agents, multi-agent workflows, RAG, MCP, LoRA, computer vision, NLP, RL (PPO, DQN)<br>
+**Platforms:** Azure (VMs, Logic Apps), Docker, GitHub, DigitalOcean, Firebase<br>
+**Languages:** Python, SQL, Java, C#, Dart
+
+<br>
 
 ---
 
-### 🧠 [NeoMyelin](https://github.com/Estaed/neomyelin): my second brain, shipped empty (v1.0.0)
-
-The system I run my own school, work and projects on, released as open source without any of my data. One message installs it into **Claude Code, Codex or Antigravity**, and the assistant then remembers you across sessions, finds what you wrote before it answers, and changes its personality only when the same behaviour shows on three different days. Plain Markdown vault, standard-library Python, MIT. [Release notes](https://github.com/Estaed/neomyelin/releases/tag/v1.0.0)
-
-### 🏆 CDU IT Code Fair 2026 (in progress)
-
-- 📡 **[Crosscheck](https://github.com/Estaed/CDU_IT_CODEFAIR_DATA_2026)**: Data Innovation Challenge (team DIC005). Compares published connectivity claims for 96 remote Northern Territory communities, shows what they mean for everyday services and where to check first. Offline single-file web app, [live here](https://estaed.github.io/CDU_IT_CODEFAIR_DATA_2026/).
-- 🏠 **Fair Turn**: AI Challenge (team AIC014). Human-approved decision support that prioritises housing maintenance requests in remote NT communities; the final ranking stays auditable arithmetic that the language model cannot override. Code is private.
-- 🛡️ **Cyber Security CTF**: live capture-the-flag competition, October 2026.
-- 🐟 **Coding & Poster** and **Research** competitions: team entries built on my FishNT thesis, led by my teammates.
-
-### 🥇 CDU IT Code Fair 2025: Winner (AI) & Runner-Up (Data Science)
-
-Nominated for the **NT Digital Excellence Awards 2025**.
-
-- 🗣️ **[Kriol → English Translation](https://github.com/Estaed/CDU_IT_CODEFAIR_Artifical_Intelligence)**: end-to-end Kriol-to-English neural machine translation with NLLB-200, built with very limited data.
-- 🌌 **[Dark Sky NT](https://github.com/Estaed/CDU_IT_CODEFAIR_Data_Science)**: stargazing tourism chatbot for non-technical users, built on RAG (FAISS) and a LoRA-tuned LLM, with multilingual BERT sentiment over multi-source reviews.
-
-### 🐟 FishNT: AI-Based Fish Classification (Master's Thesis, 2026)
-
-Computer vision system designed with **NT Government Fisheries** to detect, classify and estimate the weight of fish on a processing line. **99.6%** classification accuracy, **0.63 cm** mean length error; a scarce dataset expanded from 136 to 4,566 instances with SAM 2.1. (YOLO, SAM 2.1, OpenCV; code private.)
-
-### 🤖 AI agents and open source
-
-I run my own work through coding agents (Claude Code, Codex) and a Hermes agent on an Azure VM, sharing one memory of notes, tasks and decisions; NeoMyelin is that memory layer, made public. The agents write code against task contracts I write; I own the specs, the review and the result.
-
-Contributions to [avenoxbeyin](https://github.com/avenoxai/avenoxbeyin), an open-source second-brain system for coding agents:
-
-- [#77](https://github.com/avenoxai/avenoxbeyin/pull/77) install: keep a customised legacy runner unmanaged next to V3 (merged)
-- [#93](https://github.com/avenoxai/avenoxbeyin/pull/93) hooks: public skip flag for delegated agent runs (merged)
-- [#95](https://github.com/avenoxai/avenoxbeyin/pull/95) hooks: remind once at Stop when edits have no receipt (merged)
-- [#103](https://github.com/avenoxai/avenoxbeyin/pull/103) doctor: report dead in-vault links in instruction and skill files (merged)
-- [#169](https://github.com/avenoxai/avenoxbeyin/pull/169) tests: isolate the suite from inherited agent flags (merged)
-
-Also [avenoxskills#4](https://github.com/avenoxai/avenoxskills/pull/4): a quota-limit skill for Claude Code and Codex (merged).
-
-### 🎮 Earlier projects
-
-- 🔴 **[Connect4 AI](https://github.com/Estaed/Connet4_AI)**: PPO self-play with vectorised environments (100 to 10,000 parallel games) and a hybrid CPU-GPU setup.
-- 🛡️ **Project Taric** (archived): an RL/IL agent for League of Legends support play, across [Taric AI Agent](https://github.com/Estaed/Taric_AI_Agent), [LoL Sim Env](https://github.com/Estaed/Lol_Sim_Env) and an [MCP server](https://github.com/Estaed/Lol_Data_MCP_Server) that grounds answers in live wiki data.
-- 🎮 [Doom AI](https://github.com/Estaed/Doom-AI) and 🍄 [Mario AI](https://github.com/Estaed/Mario-AI): DQN vs PPO compared on an FPS and a platformer.
-
-### 🔧 Skills
-
-- **AI & Agents:** LLMs, AI agents and multi-agent workflows (Claude Code, Codex), RAG, MCP, fine-tuning (LoRA), computer vision, NLP, reinforcement learning (PPO, DQN)
-- **Cloud & Platforms:** Azure (Virtual Machines, Logic Apps), GitHub, Docker, DigitalOcean, Firebase
-- **Languages:** Python, SQL, Java, C#, Dart
-
-### 📫 Contact
-
-- **LinkedIn:** [Tarık Bulut](https://www.linkedin.com/in/tarikbulut/)
-- **Email:** tarik.estaed@gmail.com
-
----
-
-> "EU4 Aztec fan and LoL Taric main"
+<p align="center">
+  <b>Map the process. Build. Test. Ship.</b><br>
+  <sub>EU4 Aztec fan and LoL Taric main</sub>
+</p>
