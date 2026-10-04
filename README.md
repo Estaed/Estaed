@@ -29,35 +29,40 @@ Final-year **Master of IT (Artificial Intelligence)** at Charles Darwin Universi
       <p><sub>YOLO · SAM 2.1 · OpenCV · code private</sub></p>
     </td>
   </tr>
+</table>
+
+## CDU IT Code Fair 2026 · in progress
+
+| Challenge | Entry |
+| :--- | :--- |
+| Data Innovation (DIC005) | [**Crosscheck**](https://github.com/Estaed/CDU_IT_CODEFAIR_DATA_2026): compares published connectivity claims for 96 remote NT communities and shows where to check first. [Open the live app →](https://estaed.github.io/CDU_IT_CODEFAIR_DATA_2026/) |
+| AI Challenge (AIC014) | **Readmark**: helps a caseworker read a case file against NT policy, marking the pages that must be read and checking an AI summary against its sources. Code private. |
+| Cyber Security | Live capture-the-flag, 29 October. |
+| Coding & Poster, Research | Team entries built on FishNT, led by my teammates. |
+
+## CDU IT Code Fair 2025 · Winner (AI), Runner-up (Data Science)
+
+<table>
   <tr>
     <td width="50%" valign="top">
-      <sub>03 / CODE FAIR 2026 · DATA</sub>
-      <h3><a href="https://github.com/Estaed/CDU_IT_CODEFAIR_DATA_2026">Crosscheck</a></h3>
-      <p>Compares published connectivity claims for 96 remote NT communities and shows where to check first. Offline, single file.</p>
-      <p><a href="https://estaed.github.io/CDU_IT_CODEFAIR_DATA_2026/"><b>Open the live app →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <sub>04 / CODE FAIR 2025 · WINNER (AI)</sub>
+      <sub>WINNER · AI</sub>
       <h3><a href="https://github.com/Estaed/CDU_IT_CODEFAIR_Artifical_Intelligence">Kriol → English</a></h3>
       <p>End-to-end Kriol-to-English translation with NLLB-200, built from very limited data. Nominated for the NT Digital Excellence Awards 2025.</p>
       <p><a href="https://github.com/Estaed/CDU_IT_CODEFAIR_Artifical_Intelligence"><b>See the model →</b></a></p>
     </td>
+    <td width="50%" valign="top">
+      <sub>RUNNER-UP · DATA SCIENCE</sub>
+      <h3><a href="https://github.com/Estaed/CDU_IT_CODEFAIR_Data_Science">Dark Sky NT</a></h3>
+      <p>Stargazing tourism chatbot for non-technical users on RAG (FAISS) and a LoRA-tuned LLM, with multilingual BERT sentiment over reviews.</p>
+      <p><a href="https://github.com/Estaed/CDU_IT_CODEFAIR_Data_Science"><b>See the chatbot →</b></a></p>
+    </td>
   </tr>
 </table>
-
-## On the workbench: Fair Turn
-
-**Housing maintenance triage for remote NT communities.** CDU IT Code Fair 2026, AI Challenge.
-
-Human-approved decision support: the final ranking stays auditable arithmetic that the language model cannot override. Also competing this year in the Cyber Security CTF (October) and, with my teammates, in Coding & Poster and Research on FishNT.
-
-**In progress.** The code is private.
 
 ## More to open
 
 | Project | What to look for |
 | :--- | :--- |
-| [Dark Sky NT](https://github.com/Estaed/CDU_IT_CODEFAIR_Data_Science) | Code Fair 2025 runner-up (Data Science): stargazing chatbot on RAG (FAISS) and a LoRA-tuned LLM. |
 | [Connect4 AI](https://github.com/Estaed/Connet4_AI) | PPO self-play across 100 to 10,000 parallel games on a hybrid CPU-GPU setup. |
 | [Taric AI Agent](https://github.com/Estaed/Taric_AI_Agent) | RL/IL support agent for League of Legends, with a [sim env](https://github.com/Estaed/Lol_Sim_Env) and an [MCP server](https://github.com/Estaed/Lol_Data_MCP_Server). Archived. |
 | [Doom AI](https://github.com/Estaed/Doom-AI) · [Mario AI](https://github.com/Estaed/Mario-AI) | DQN vs PPO on an FPS and a platformer. |
