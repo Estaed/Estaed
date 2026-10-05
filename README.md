@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Tarık Bulut, AI engineer in Darwin, Australia, at his desk by the harbour at sunset. FishNT, Code Fair, NeoMyelin.">
+  <img src="./assets/banner.png" width="100%" alt="Tarık Bulut, AI engineer in Darwin, Australia. A potato in a tie sits at a laptop by the harbour at sunset. FishNT, Code Fair, NeoMyelin.">
 </p>
 
 <p align="center">
