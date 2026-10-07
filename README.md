@@ -36,7 +36,7 @@ Final-year **Master of IT (Artificial Intelligence)** at Charles Darwin Universi
 | Challenge | Entry |
 | :--- | :--- |
 | Data Innovation (DIC005) | [**Crosscheck**](https://github.com/Estaed/CDU_IT_CODEFAIR_DATA_2026): compares published connectivity claims for 96 remote NT communities and shows where to check first. [Open the live app →](https://estaed.github.io/CDU_IT_CODEFAIR_DATA_2026/) |
-| AI Challenge (AIC014) | **Readmark**: helps a caseworker read a case file against NT policy, marking the pages that must be read and checking an AI summary against its sources. Code private. |
+| AI Challenge (AIC014) | [**Readmark**](https://github.com/Estaed/CDU_IT_CODEFAIR_AI_2026): helps a caseworker read a case file against NT policy, marking the pages that must be read and checking an AI summary against its sources. [See the review flow →](https://github.com/Estaed/CDU_IT_CODEFAIR_AI_2026#readmark) |
 | Cyber Security | Live capture-the-flag, 29 October. |
 | Coding & Poster, Research | Team entries built on FishNT, led by my teammates. |
 
