@@ -63,7 +63,7 @@ Final-year **Master of IT (Artificial Intelligence)** at Charles Darwin Universi
 
 | Project | What to look for |
 | :--- | :--- |
-| **Terra NT** | Flutter app for planning an NT road trip: a few questions about how you travel, then an AI-planned day-by-day route on the map, ordered and paced for NT distances, heat and closures, and handed to Google Maps to drive. Code private. |
+| [**Terra NT**](https://github.com/Estaed/Terra-NT) | Flutter app for planning an NT road trip: a few questions about how you travel, then an AI-planned day-by-day route on the map, ordered and paced for NT distances, heat and closures, and handed to Google Maps to drive. [See it plan a trip →](https://github.com/Estaed/Terra-NT#terra-nt) |
 | [Connect4 AI](https://github.com/Estaed/Connet4_AI) | PPO self-play across 100 to 10,000 parallel games on a hybrid CPU-GPU setup. |
 | [Taric AI Agent](https://github.com/Estaed/Taric_AI_Agent) | RL/IL support agent for League of Legends, with a [sim env](https://github.com/Estaed/Lol_Sim_Env) and an [MCP server](https://github.com/Estaed/Lol_Data_MCP_Server). Archived. |
 | [Doom AI](https://github.com/Estaed/Doom-AI) · [Mario AI](https://github.com/Estaed/Mario-AI) | DQN vs PPO on an FPS and a platformer. |
