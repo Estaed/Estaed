@@ -31,14 +31,18 @@ Final-year **Master of IT (Artificial Intelligence)** at Charles Darwin Universi
   </tr>
 </table>
 
-## CDU IT Code Fair 2026 · in progress
+## CDU IT Code Fair 2026 · results 5 November
 
-| Challenge | Entry |
-| :--- | :--- |
-| Data Innovation (DIC005) | [**Crosscheck**](https://github.com/Estaed/CDU_IT_CODEFAIR_DATA_2026): compares published connectivity claims for 96 remote NT communities and shows where to check first. [Open the live app →](https://estaed.github.io/CDU_IT_CODEFAIR_DATA_2026/) |
-| AI Challenge (AIC014) | [**Readmark**](https://github.com/Estaed/CDU_IT_CODEFAIR_AI_2026): helps a caseworker read a case file against NT policy, marking the pages that must be read and checking an AI summary against its sources. [See the review flow →](https://github.com/Estaed/CDU_IT_CODEFAIR_AI_2026#readmark) |
-| Cyber Security | Live capture-the-flag, 29 October. |
-| Coding & Poster, Research | Team entries built on FishNT, led by my teammates. |
+Six challenges this year: I entered the first four, and my teammates lead the FishNT research talk and poster.
+
+| Challenge | Entry | Result |
+| :--- | :--- | :--- |
+| Data Innovation (DIC005) | [**Crosscheck**](https://github.com/Estaed/CDU_IT_CODEFAIR_DATA_2026): compares published connectivity claims for 96 remote NT communities and shows where to check first. [Open the live app →](https://estaed.github.io/CDU_IT_CODEFAIR_DATA_2026/) | Shortlisted, presented 7 Oct · result 5 Nov |
+| AI Challenge (AIC014) | [**Readmark**](https://github.com/Estaed/CDU_IT_CODEFAIR_AI_2026): helps a caseworker read a case file against NT policy, marking the pages that must be read and checking an AI summary against its sources. [See the review flow →](https://github.com/Estaed/CDU_IT_CODEFAIR_AI_2026#readmark) | Presented 15 Oct · result 5 Nov |
+| Cyber Security (CSC017) | Live capture-the-flag in a team of two. | 29 Oct |
+| Coding | **FishNT v2**: the thesis model rebuilt to measure fish on live video. <sub>code private</sub> | 5 Nov |
+| Research | FishNT in three minutes on one slide, with my teammates. | 5 Nov |
+| Poster | FishNT poster, led by my teammates. | 5 Nov |
 
 ## CDU IT Code Fair 2025 · Winner (AI), Runner-up (Data Science)
 
@@ -55,6 +59,25 @@ Final-year **Master of IT (Artificial Intelligence)** at Charles Darwin Universi
       <h3><a href="https://github.com/Estaed/CDU_IT_CODEFAIR_Data_Science">Dark Sky NT</a></h3>
       <p>Stargazing tourism chatbot for non-technical users on RAG (FAISS) and a LoRA-tuned LLM, with multilingual BERT sentiment over reviews.</p>
       <p><a href="https://github.com/Estaed/CDU_IT_CODEFAIR_Data_Science"><b>See the chatbot →</b></a></p>
+    </td>
+  </tr>
+</table>
+
+## Apps I use every day
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>GYM LOG · PWA</sub>
+      <h3><a href="https://github.com/Estaed/Sthenos">Sthenos</a></h3>
+      <p>The whole training day on one phone screen: one tap per set, a rest timer and automatic progression. Works offline, sync optional.</p>
+      <p><a href="https://estaed.github.io/Sthenos/"><b>Open the app →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>FOOD LOG · PWA</sub>
+      <h3><a href="https://github.com/Estaed/Pantry">Pantry</a></h3>
+      <p>Calorie and macro log for the phone: usual foods by the gram, barcode lookup, optional private GitHub sync.</p>
+      <p><a href="https://estaed.github.io/Pantry/"><b>Open the app →</b></a></p>
     </td>
   </tr>
 </table>
@@ -85,7 +108,7 @@ I run my work through Claude Code, Codex and a Hermes agent sharing one memory. 
 
 **AI:** LLM agents, multi-agent workflows, RAG, MCP, LoRA, computer vision, NLP, RL (PPO, DQN)<br>
 **Platforms:** Azure (VMs, Logic Apps), Docker, GitHub, DigitalOcean, Firebase<br>
-**Languages:** Python, SQL, Java, C#, Dart
+**Languages:** Python, SQL, JavaScript, Java, C#, Dart
 
 <br>
 
