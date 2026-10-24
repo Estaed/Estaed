@@ -33,7 +33,7 @@ Final-year **Master of IT (Artificial Intelligence)** at Charles Darwin Universi
 
 ## CDU IT Code Fair 2026 · results 5 November
 
-This year we entered all six challenges, up from two in 2025. I built the first four entries; my teammates lead the FishNT research talk and poster.
+This year we entered all six challenges, up from two in 2025. I lead the first four; my teammates lead the FishNT research talk and poster.
 
 | Challenge | Entry | Result |
 | :--- | :--- | :--- |
