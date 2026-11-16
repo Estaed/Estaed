@@ -31,18 +31,18 @@ Final-year **Master of IT (Artificial Intelligence)** at Charles Darwin Universi
   </tr>
 </table>
 
-## CDU IT Code Fair 2026 · results 5 November
+## CDU IT Code Fair 2026 · Winner (Coding, Research), Honourable mention (AI, Cyber Security)
 
 This year we entered all six challenges, up from two in 2025. I lead the first four; my teammates lead the FishNT research talk and poster.
 
 | Challenge | Entry | Result |
 | :--- | :--- | :--- |
-| Data Innovation (DIC005) | [**Crosscheck**](https://github.com/Estaed/CDU_IT_CODEFAIR_DATA_2026): compares published connectivity claims for 96 remote NT communities and shows where to check first. [Open the live app →](https://estaed.github.io/CDU_IT_CODEFAIR_DATA_2026/) | Shortlisted, presented 7 Oct · result 5 Nov |
-| AI Challenge (AIC014) | [**Readmark**](https://github.com/Estaed/CDU_IT_CODEFAIR_AI_2026): helps a caseworker read a case file against NT policy, marking the pages that must be read and checking an AI summary against its sources. [See the review flow →](https://github.com/Estaed/CDU_IT_CODEFAIR_AI_2026#readmark) | Presented 15 Oct · result 5 Nov |
-| Cyber Security (CSC017) | Live capture-the-flag in a team of two. | 29 Oct |
-| Coding | **FishNT v2**: the thesis model rebuilt to measure fish on live video. <sub>code private</sub> | 5 Nov |
-| Research | FishNT in three minutes on one slide, with my teammates. | 5 Nov |
-| Poster | FishNT poster, led by my teammates. | 5 Nov |
+| Data Innovation (DIC005) | [**Crosscheck**](https://github.com/Estaed/CDU_IT_CODEFAIR_DATA_2026): compares published connectivity claims for 96 remote NT communities and shows where to check first. [Open the live app →](https://estaed.github.io/CDU_IT_CODEFAIR_DATA_2026/) | Shortlisted, presented |
+| AI Challenge (AIC014) | [**Readmark**](https://github.com/Estaed/CDU_IT_CODEFAIR_AI_2026): helps a caseworker read a case file against NT policy, marking the pages that must be read and checking an AI summary against its sources. [See the review flow →](https://github.com/Estaed/CDU_IT_CODEFAIR_AI_2026#readmark) | **Honourable mention** |
+| Cyber Security (CSC017) | Live capture-the-flag in a team of two. | **Honourable mention** |
+| Coding | **FishNT v2**: the thesis model rebuilt to measure fish on live video. <sub>code private</sub> | **1st place** |
+| Research | FishNT in three minutes on one slide, with my teammates. | **1st place** |
+| Poster | FishNT poster, led by my teammates. | Entered |
 
 ## CDU IT Code Fair 2025 · Winner (AI), Runner-up (Data Science)
 
