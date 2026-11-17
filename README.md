@@ -10,7 +10,7 @@
 
 <br>
 
-Final-year **Master of IT (Artificial Intelligence)** at Charles Darwin University (November 2026), with a Software Engineering degree. I start from how a process actually runs, find where AI or an agent can help, build it, and test that it holds up in practice.
+**Master of IT (Artificial Intelligence)** from Charles Darwin University (completed November 2026, GPA 6/7), with a Software Engineering degree. I start from how a process actually runs, find where AI or an agent can help, build it, and test that it holds up in practice.
 
 ## Start here
 
